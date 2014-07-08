@@ -1,0 +1,3 @@
+name: SuperOriginal-t1
+main: com.tenjava.entries.SuperOriginal.t1.TenJava
+version: '${project.version}'
