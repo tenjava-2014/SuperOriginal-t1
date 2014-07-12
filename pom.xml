@@ -28,7 +28,11 @@
 	</dependencies>
 
 	<build>
+<<<<<<< HEAD
 		<defaultGoal>package</defaultGoal>
+=======
+		<defaultGoal>clean package</defaultGoal>
+>>>>>>> origin/master
 		<finalName>${project.artifactId}</finalName>
 		<plugins>
 			<plugin>
@@ -38,8 +42,13 @@
 				<configuration>
 					<!-- Per the rules at http://git.io/lAJgzQ, you're free to change
 					     "1.6" to "1.7" or "1.8" if you wish. This will not impact your score. -->
+<<<<<<< HEAD
 					<source>1.7</source>
 					<target>1.7</target>
+=======
+					<source>1.6</source>
+					<target>1.6</target>
+>>>>>>> origin/master
 				</configuration>
 			</plugin>
 		</plugins>
