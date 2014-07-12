@@ -1,3 +1,5 @@
+**Your builds are consistently failing on our continueous integration server due to your POM file which contains merge conflicts. We suggest you attain another POM file from the repository-template and replace your current file.**
+
 SuperOriginal's ten.java submission
 ==============================
 
